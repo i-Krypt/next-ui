@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.Navbar {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.Navbar a {
+  margin-left: 12px;
+  color: white;
+}
